@@ -1,0 +1,13 @@
+{
+  "name": "Artificially Intelligent Decentralized Finance",
+  "description": "A brief description of your token and its purpose",
+  "image": "https://raw.githubusercontent.com/yourusername/your-repo-name/main/logo.png",
+  "external_link": "https://under-construction.com",
+  "symbol": "AIDEFI",
+  "decimals": 18,
+  "properties": {
+    "tokenStandard": "ERC-20",
+    "network": "Polygon",
+    "contractAddress": "0xddc0f528514261A9691e23770c49Ac6089e3346A"
+  }
+}
